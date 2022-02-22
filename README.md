@@ -1,4 +1,4 @@
-# AWS Learning Plan
+# AWS-Learning-Plan
 
 Budget and Billing
 IAM User
